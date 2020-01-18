@@ -15,7 +15,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "91:b2:9d:b3:55:b0:3a:14:ba:0a:c2:95:8d:ba:ee:b2"
+            - $GITHUB_SSH_KEY
       
       - checkout
 
