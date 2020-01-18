@@ -31,3 +31,9 @@ jobs:
 
       # run tests!
       - run: yarn build
+
+      # deploy to github pages
+      - run :
+          name: Deploy
+          command: sh scripts/deploy-github-page.sh
+      
