@@ -856,9 +856,9 @@
   integrity sha1-PcoOPzOyAPx9ETnAzZbBJoyt/Z0=
 
 "@types/node@*":
-  version "13.1.7"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.1.7.tgz#db51d28b8dfacfe4fb2d0da88f5eb0a2eca00675"
-  integrity sha1-21HSi436z+T7LQ2oj16wouygBnU=
+  version "13.1.8"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.1.8.tgz#1d590429fe8187a02707720ecf38a6fe46ce294b"
+  integrity sha1-HVkEKf6Bh6AnB3IOzzim/kbOKUs=
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -3008,9 +3008,9 @@ ejs@^2.6.1:
   integrity sha1-SGYSh1c9zFPjZsehrlLDoSDuybo=
 
 electron-to-chromium@^1.3.322:
-  version "1.3.336"
-  resolved "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.336.tgz#f0e7a3e78f1c9a0385b6693a4a4b7453f0ae6aaf"
-  integrity sha1-8Oej548cmgOFtmk6Skt0U/Cuaq8=
+  version "1.3.337"
+  resolved "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.337.tgz#b2c093cdb66121a946d333b454adcdc5666ceaed"
+  integrity sha1-ssCTzbZhIalG0zO0VK3NxWZs6u0=
 
 elliptic@^6.0.0:
   version "6.5.2"
@@ -3237,7 +3237,7 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
 
 eslint@^5.16.0:
   version "5.16.0"
-  resolved "https://registry.npm.taobao.org/eslint/download/eslint-5.16.0.tgz?cache=0&sync_timestamp=1576877102037&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint%2Fdownload%2Feslint-5.16.0.tgz#a1e3ac1aae4a3fbd8296fcf8f7ab7314cbb6abea"
+  resolved "https://registry.npm.taobao.org/eslint/download/eslint-5.16.0.tgz#a1e3ac1aae4a3fbd8296fcf8f7ab7314cbb6abea"
   integrity sha1-oeOsGq5KP72Clvz496tzFMu2q+o=
   dependencies:
     "@babel/code-frame" "^7.0.0"
@@ -6654,9 +6654,9 @@ read-pkg@^5.1.1:
     util-deprecate "~1.0.1"
 
 readable-stream@^3.0.6, readable-stream@^3.1.1:
-  version "3.4.0"
-  resolved "https://registry.npm.taobao.org/readable-stream/download/readable-stream-3.4.0.tgz#a51c26754658e0a3c21dbf59163bd45ba6f447fc"
-  integrity sha1-pRwmdUZY4KPCHb9ZFjvUW6b0R/w=
+  version "3.5.0"
+  resolved "https://registry.npm.taobao.org/readable-stream/download/readable-stream-3.5.0.tgz#465d70e6d1087f6162d079cd0b5db7fbebfd1606"
+  integrity sha1-Rl1w5tEIf2Fi0HnNC123++v9FgY=
   dependencies:
     inherits "^2.0.3"
     string_decoder "^1.1.1"
@@ -6974,9 +6974,9 @@ sass-loader@^8.0.0:
     semver "^6.3.0"
 
 sass@^1.23.7:
-  version "1.24.5"
-  resolved "https://registry.npm.taobao.org/sass/download/sass-1.24.5.tgz#7fecab3c4db486c584fecb1a79fbc156e52c6c44"
-  integrity sha1-f+yrPE20hsWE/ssaefvBVuUsbEQ=
+  version "1.25.0"
+  resolved "https://registry.npm.taobao.org/sass/download/sass-1.25.0.tgz#f8bd7dfbb39d6b0305e27704a8ebe637820693f3"
+  integrity sha1-+L19+7OdawMF4ncEqOvmN4IGk/M=
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
 
@@ -6987,7 +6987,7 @@ sax@~1.2.4:
 
 schema-utils@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npm.taobao.org/schema-utils/download/schema-utils-1.0.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
+  resolved "https://registry.npm.taobao.org/schema-utils/download/schema-utils-1.0.0.tgz?cache=0&sync_timestamp=1579261789269&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
   integrity sha1-C3mpMgTXtgDUsoUNH2bCo0lRx3A=
   dependencies:
     ajv "^6.1.0"
@@ -6995,9 +6995,9 @@ schema-utils@^1.0.0:
     ajv-keywords "^3.1.0"
 
 schema-utils@^2.0.0, schema-utils@^2.5.0, schema-utils@^2.6.0, schema-utils@^2.6.1:
-  version "2.6.2"
-  resolved "https://registry.npm.taobao.org/schema-utils/download/schema-utils-2.6.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-2.6.2.tgz#9205ec5978709b0d9edbccb9a316faf11617a017"
-  integrity sha1-kgXsWXhwmw2e28y5oxb68RYXoBc=
+  version "2.6.4"
+  resolved "https://registry.npm.taobao.org/schema-utils/download/schema-utils-2.6.4.tgz?cache=0&sync_timestamp=1579261789269&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fschema-utils%2Fdownload%2Fschema-utils-2.6.4.tgz#a27efbf6e4e78689d91872ee3ccfa57d7bdd0f53"
+  integrity sha1-on779uTnhonZGHLuPM+lfXvdD1M=
   dependencies:
     ajv "^6.10.2"
     ajv-keywords "^3.4.1"
